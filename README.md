@@ -16,3 +16,13 @@ This is where i started my Portfolio building while taking my Data analysis clas
   - For Data Visualization and Reporting   
 - Ms Power Point 
   - For Presentation
+
+``` sql
+select A,B,C
+where A> 15
+
+```
+
+     
+
+    
